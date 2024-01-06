@@ -1,0 +1,8 @@
+.main {
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    h3, h4 {
+        text-align: center;
+    }
+}
